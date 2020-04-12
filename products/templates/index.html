@@ -27,6 +27,7 @@
 
 <div class="row">
     {% for product in products %}
+<<<<<<< HEAD
     <div class="col">
         <div class="card" style="width: 18rem;text-align: center; margin: 10px">
             <img src="{{ product.image_url }}" class="card-img-top" alt="{{ product.id}}">
@@ -41,3 +42,11 @@
 </div>
 {% endblock %}
 
+=======
+    <li>{{ product.name }} ($ {{ product.price }} x kg)</li>
+    <img src="">
+    {% endfor %}
+</ul>
+</body>
+</html>
+>>>>>>> bcf43c6c78ade4581aa9ecbcb2b458c7c96ca759

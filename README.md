@@ -1,4 +1,4 @@
 # PyStore
  Store in Django-Python
  
- This project is start ...
+ This project is start ..

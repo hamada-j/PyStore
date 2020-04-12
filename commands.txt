@@ -1,4 +1,0 @@
-% pip install django==2.1
-% django-admin startproject pystore .
-% python3 manage.py runserver
-% python3 manage.py startapp products
